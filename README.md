@@ -1,6 +1,6 @@
 # Rohit-Kaggle-Course-Work
 A comprehensive record of all code, notebooks, and solutions from the Kaggle Learn curriculum, used to build a foundational skill set in data science and machine learning.
-# 📚 [YourName/Initials]-Kaggle-Learning-Path
+# 📚 Rohit-Kaggle-Learning-Path
 
 This repository serves as a structured portfolio documenting my successful completion of the official **Kaggle Learn** curriculum. It contains all code solutions, notebooks, and practical projects designed to build and solidify a strong foundation in modern data science and machine learning.
 
@@ -66,8 +66,7 @@ To run the notebooks locally, please follow these steps:
 
 I am actively pursuing opportunities in Data Science and Machine Learning. Feel free to connect or review my other projects.
 
-* **LinkedIn:** [Link to your LinkedIn Profile]
-* **Personal Website/Portfolio:** [Link to your personal website, if applicable]
+* **LinkedIn:** [[Link to your LinkedIn Profile]](https://www.linkedin.com/in/rohit-choudhary-92a026202/)
 
 ***
 *This repository is maintained by [Your Full Name].*
